@@ -23,8 +23,8 @@ Resume Extractor is a tool designed to analyze and extract key information from 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/resume-extractor.git
-    cd resume-extractor
+    git clone https://github.com/wittyicon29/PDF2JSON.git
+    cd PDF2JSON
     ```
 
 2. Install the required packages:
