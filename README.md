@@ -45,7 +45,6 @@ Resume Extractor is a tool designed to analyze and extract key information from 
 
 4. The extracted information will be saved as `output.json`.
 
-Sample - 
 ![image](https://github.com/user-attachments/assets/abedea4f-aa8a-4fc8-b305-36843e13b195)
 
 
