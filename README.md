@@ -36,7 +36,7 @@ Resume Extractor is a tool designed to analyze and extract key information from 
 
 1. Place the resume PDF in the project directory and name it `resume.pdf`.
 
-2. Add your GROQ Cloud API Key at the GROQ_API_KEY.
+2. Add your GROQ Cloud API Key at the `GROQ_API_KEY`.
 
 3. Run the script:
     ```bash
